@@ -33,6 +33,6 @@ console.log('it is only my world.')
 - Full stack developer, CEO in web application "your think" (2020.02 ~ 2020.05)
 - Full stack developer in Saram Moa (2021.01 ~ )
 
-### Want to be
+### want to be
 
-- block chain developer
+- a person who has ordinary happy.
