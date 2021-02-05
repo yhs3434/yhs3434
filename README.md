@@ -31,7 +31,8 @@ console.log('it is only my world.')
 - Android app developer in Navion corporation (2019.03 ~ 2019.07)
 - Web site developer in admission office of Dankook univ graduate school (freelance, 2019.03 ~ 2019.05)
 - Full stack developer, CEO in web application "your think" (2020.02 ~ 2020.05)
-- Full stack developer in Saram Moa (2021.01 ~ )
+- Full stack developer in Saram Moa (2021.01 ~ interruption)
+- Front end developer in Ozys (2021.02 ~ )
 
 ### want to be
 
