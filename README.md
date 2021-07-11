@@ -36,5 +36,4 @@ console.log('it is only my world.')
 
 ### want to be
 
-- A person who has a ordinary happy.
 - A no.1 javascript developer.
