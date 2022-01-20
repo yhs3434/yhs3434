@@ -32,7 +32,6 @@ console.log('it is only my world.')
 - Web site developer in admission office of Dankook univ graduate school (freelance, 2019.03 ~ 2019.05)
 - Full-stack develop, web application "your think" (2020.02 ~ 2020.05)
 - Frontend developer in Ozys (2021.02 ~ )
-- Full-stack develop, mobile application "saram moa" (2021.05 ~ )
 
 ### want to be
 
