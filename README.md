@@ -35,5 +35,5 @@ console.log('it is only my world.')
 
 ### want to be
 
-- A no.1 javascript developer.
+- A developer who can design.
 - A web/app artist in VR.
