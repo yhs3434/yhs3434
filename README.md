@@ -1,29 +1,10 @@
 ## Yoon Han Sol
 
-```c
-printf("hello world!");
-```
-
-Coders think a lot as they write code.
-
-```java
-System.out.println("hello world!");
-```
-
-How did the previous person who wrote this code think about writing this code?
-
-How will the person after writing this code accept this code?
-
-```python
-print('hello world!')
-```
-
-Therefore the code is like a poem.
+지금까지는 나의 존재를 세상에서 알아주기를 바랐던 것에 초점을 맞췄다.
+하지만 지금부터는 나의 존재를 증명하는 것에 초점을 맞출 생각이다.
 
 
-```javascript
-console.log('it is only my world.')
-```
+(개발자는 개발물로 증명을 해야한다.)
 
 ### road
 
