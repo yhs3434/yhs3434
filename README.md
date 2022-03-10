@@ -1,10 +1,8 @@
 ## Yoon Han Sol
 
-지금까지는 나의 존재를 세상에서 알아주기를 바랐던 것에 초점을 맞췄다.
-하지만 지금부터는 나의 존재를 증명하는 것에 초점을 맞출 생각이다.
+### using skill
 
-
-(개발자는 개발물로 증명을 해야한다.)
+react, react native, html, css
 
 ### road
 
