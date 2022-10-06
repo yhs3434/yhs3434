@@ -12,6 +12,8 @@ react, react native, html, css
 - Full-stack develop, web application "your think" (2020.02 ~ 2020.05)
 - Frontend developer in Ozys (2021.02 ~ 2022.05)
 - Full-stack developer in Promenade-ai (2022.05 ~ 2022.08)
+- Full-stack develop, web application 'sarammoa (https://sarammoa.xyz)' (2022.08 ~ )
+
 ### want to be
 
 - A developer who can design.
