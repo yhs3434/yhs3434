@@ -2,7 +2,7 @@
 
 ### using skill
 
-react, react native, html, css
+react, three.js, html, css
 
 ### road
 
@@ -16,5 +16,4 @@ react, react native, html, css
 
 ### want to be
 
-- A developer who can design.
-- A web/app artist in VR.
+- 3D modeling (three.js, babylon.js) developer
