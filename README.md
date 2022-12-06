@@ -11,7 +11,7 @@ react, three.js, html, css
 - Web site developer, admission office of Dankook univ graduate school (freelance, 2019.03 ~ 2019.05)
 - Frontend developer, Ozys (2021.02 ~ 2022.05)
 - Full-stack developer, Promenade-ai (2022.05 ~ 2022.08)
-- Full-stack develop, web application 'sarammoa (https://sarammoa.xyz)' (2022.08 ~ )
+- Full-stack develop, web application 'sarammoa (https://sarammoa.xyz)' (2022.08 ~ 2022.12, pause)
 - Frontend developer, freelancer (2022.11 ~ )
 - Frontend developer, Beaver Works Inc. (2022.12 ~ )
 
