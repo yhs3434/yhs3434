@@ -2,7 +2,7 @@
 
 ### using skill
 
-react, three.js, html, css
+react, react-native
 
 ### road
 
@@ -12,7 +12,7 @@ react, three.js, html, css
 - Frontend developer, Ozys (2021.02 ~ 2022.05)
 - Full-stack developer, Promenade-ai (2022.05 ~ 2022.08)
 - Full-stack develop, web application 'sarammoa (https://sarammoa.xyz)' (2022.08 ~ 2022.12, pause)
-- Frontend developer, freelancer (2022.11 ~ 2023.02)
+- Frontend developer, jisik and business (freelance, 2022.11 ~ 2023.02)
 - Frontend developer, Beaver Works Inc. (2022.12 ~ )
 
 ### want to be
