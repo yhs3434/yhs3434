@@ -1,11 +1,11 @@
 # Yoon Han Sol
 
-## using skill
+## Using skill
 
 react, react-native
 
-## road
-#### official
+## Road
+#### Official
 
 - Portal site manager, information plan team of Dankook univ (2018.03 ~ 2018.08)
 - App(Android) developer, Navion corporation (2019.03 ~ 2019.07)
@@ -16,11 +16,11 @@ react, react-native
 - App(React Native) developer, Beaver Works Inc. (2022.12 ~ )
 
     
-#### unofficial
+#### Unofficial
 
 - Full-stack develop, web application 'sarammoa (https://sarammoa.xyz)' (2022.08 ~ 2022.12, pause)
 
     
-## want to be
+## Want to be
 
 - 3D modeling (three.js, babylon.js) developer
