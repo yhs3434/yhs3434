@@ -2,7 +2,7 @@
 
 ## Using skill
 
-react, react-native
+react, react-native, firebase
 
 ## Road
 #### Official
