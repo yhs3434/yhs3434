@@ -14,14 +14,11 @@ react, react-native, firebase
     
 #### Unofficial
 
-- Portal site manager, information plan team of Dankook univ (2018.03 ~ 2018.08)
 - App(Android) developer, Navion corporation (2019.03 ~ 2019.07)
 - Web(CMS, Vanilla js) developer, admission office of Dankook univ graduate school (freelance, 2019.03 ~ 2019.05)
-- Full-stack develop, web application 'sarammoa (https://sarammoa.xyz)' (2022.08 ~ 2022.12, pause)
 - Web(React) developer, jisik and business (freelance, 2022.11 ~ 2023.02)
 
     
 ## Want to be
 
-- like mrousavy
-- 3D modeling (three.js, babylon.js) developer
+- Be like a mrousavy
