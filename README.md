@@ -40,7 +40,7 @@ AWS · GCP
 
 ### 🛠️ Side Projects & Freelance
 
-**Founder** — MomentBook
+**Founder** — MomentBook  
 📆 *2025.08 ~ Present*  
 
 **Web Developer (React)** — jisik and business *(Freelance)*  
