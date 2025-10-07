@@ -7,7 +7,7 @@
 ## 💻 Tech Stack
 
 **Mobile**  
-React Native · Android  
+React Native (Bare, Expo)
 
 **Frontend**  
 React · Vue · Vanilla JS  
