@@ -24,10 +24,10 @@ AWS · GCP
 
 ### 📱 Official
 
-**App Developer (React Native)** — [Newndy](https://github.com/Newndy)  
+**Cross-Platform Mobile Developer (React Native)** — Newndy
 📆 *2025.09 ~ Present*  
 
-**App Developer (React Native)** — [Beaver Works Inc.](https://github.com/beaverworksinc)  
+**Cross-Platform Mobile Developer (React Native)** — Beaver Works Inc.
 📆 *2022.12 ~ 2025.08*  
 
 **Full-stack Developer** — Promenade-ai  
@@ -40,7 +40,7 @@ AWS · GCP
 
 ### 🛠️ Side Projects & Freelance
 
-**Founder** — [MomentBook](https://github.com/yoondev3434/momentbook)  
+**Founder** — MomentBook
 📆 *2025.08 ~ Present*  
 
 **Web Developer (React)** — jisik and business *(Freelance)*  
