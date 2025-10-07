@@ -30,7 +30,7 @@ AWS · GCP
 **Cross-Platform Mobile Developer (React Native)** — Beaver Works Inc.  
 📆 *2022.12 ~ 2025.08*  
 
-**Full-stack Developer** — Promenade-ai  
+**Full-stack Developer (React & Express & gcp)** — Promenade-ai  
 📆 *2022.05 ~ 2022.08*  
 
 **Web Developer (Vue & React)** — Ozys  
