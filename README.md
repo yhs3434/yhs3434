@@ -49,7 +49,7 @@ AWS · GCP
 **CMS Developer (Vanilla JS)** — Dankook Univ Graduate School *(Freelance)*  
 📆 *2019.03 ~ 2019.05*  
 
-**Android Developer** — Navion Corporation  
+**Android Developer (Java)** — Navion Corporation  
 📆 *2019.03 ~ 2019.07*  
 
 ---
