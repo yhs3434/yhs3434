@@ -24,10 +24,10 @@ AWS · GCP
 
 ### 📱 Official
 
-**Cross-Platform Mobile Developer (React Native)** — Newndy  
+**Cross-Platform Mobile Developer (React Native, expo)** — Newndy  
 📆 *2025.09 ~ Present*  
 
-**Cross-Platform Mobile Developer (React Native)** — Beaver Works Inc.  
+**Cross-Platform Mobile Developer (React Native, bare)** — Beaver Works Inc.  
 📆 *2022.12 ~ 2025.08*  
 
 **Full-stack Developer (React & Express & gcp)** — Promenade-ai  
