@@ -34,11 +34,6 @@
 
 ### 🛠️ Contracts · Short-term · Freelance
 
-**Founder & Mobile Developer** — MomentBook  
-📆 *2025.08 ~ Present*  
-
-> A personal journaling app focused on location-based journeys and daily reflection.
-
 **Cross-Platform Mobile Developer (React Native · Expo)** — Newndy *(Short-term Contract)*  
 📆 *2025.09 ~ 2025.12.17*
 
