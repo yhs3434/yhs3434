@@ -10,10 +10,10 @@
 - React Native (Bare · Expo)
 
 **Frontend**  
-- React · Vue · Vanilla JS
+- React
 
 **Backend**  
-- Node.js · Express
+- Express, Nest.js
 
 **Cloud**  
 - AWS · GCP
@@ -35,7 +35,7 @@
 ### 🛠️ Contracts · Short-term · Freelance
 
 **Cross-Platform Mobile Developer (React Native · Expo)** — Newndy *(Short-term Contract)*  
-📆 *2025.09 ~ 2025.12.17*
+📆 *2025.09 ~ 2025.12*
 
 **Full-stack Developer (React · Express · GCP)** — Promenade-ai *(Contract)*  
 📆 *2022.05 ~ 2022.08*
