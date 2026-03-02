@@ -22,23 +22,23 @@
 
 ## 🚀 Professional Experience
 
-### 📱 Full-time / Long-term Roles
+### 📱 Full-time
+
+**Cross-Platform Mobile Developer (React Native · Expo)** — Newndy *(Contract)*  
+📆 *2025.09 ~ 2025.12*
 
 **Cross-Platform Mobile Developer (React Native · Bare)** — Beaver Works Inc.  
 📆 *2022.12 ~ 2025.08*
+
+**Full-stack Developer (React · Express · GCP)** — Promenade-ai *(Contract)*
+📆 *2022.05 ~ 2022.08*
 
 **Web Developer (Vue · React)** — Ozys  
 📆 *2021.02 ~ 2022.05*
 
 ---
 
-### 🛠️ Contracts · Short-term · Freelance
-
-**Cross-Platform Mobile Developer (React Native · Expo)** — Newndy *(Short-term Contract)*  
-📆 *2025.09 ~ 2025.12*
-
-**Full-stack Developer (React · Express · GCP)** — Promenade-ai *(Contract)*  
-📆 *2022.05 ~ 2022.08*
+### 🛠️ Freelance
 
 **Web Developer (React)** — Jisik and Business *(Freelance)*  
 📆 *2022.11 ~ 2023.02*
