@@ -10,10 +10,10 @@
 - React Native (Bare · Expo)
 
 **Frontend**  
-- React
+- React (CRA, Next.js)
 
 **Backend**  
-- Express, Nest.js
+- Node.js (Express.js, Nest.js)
 
 **Cloud**  
 - AWS · GCP
