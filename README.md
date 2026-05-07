@@ -1,4 +1,4 @@
-⁷# 👋 Yoon Han Sol
+# 👋 Yoon Han Sol
 
 > *"I am not a genius, so I believe in rules and discipline more than talent."*
 
