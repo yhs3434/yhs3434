@@ -37,13 +37,13 @@
 
 ### 🛠️ Freelance
 
-**Full-stack Developer (React · Express · GCP)** — Promenade-ai *(Contract)*  
+**Full-stack Developer (React · Express · GCP)** — Promenade-ai  
 📆 *2022.05 ~ 2022.08*
 
-**Web Developer (React)** — Jisik and Business *(Freelance)*  
+**Web Developer (React)** — Jisik and Business  
 📆 *2022.11 ~ 2023.02*
 
-**CMS Developer (Vanilla JS)** — Dankook Univ. Graduate School *(Freelance)*  
+**CMS Developer (Vanilla JS)** — Dankook Univ. Graduate School  
 📆 *2019.03 ~ 2019.05*
 
 **Android Developer (Java)** — Navion Corporation  
